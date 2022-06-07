@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Science
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science and how to be good because it sounds really fun
 - 👯 I’m looking to collaborate on Computer Science
 - 🤔 I’m looking for help with Computer Science
 - 💬 Ask me about anything
